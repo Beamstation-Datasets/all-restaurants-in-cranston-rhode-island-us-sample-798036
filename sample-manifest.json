@@ -1,12 +1,12 @@
 {
-  "export_job_id": "179095a9-3ecb-4214-8d06-f69be1a099b1",
+  "export_job_id": "2669e08a-8cd9-47b5-a400-6e74ae900f8d",
   "id_short": 798036,
-  "published_at": "2026-04-19T19:12:38Z",
+  "published_at": "2026-04-23T19:39:02Z",
   "repo_name": "all-restaurants-in-cranston-rhode-island-us-sample-798036",
   "sample_asset_name": "beamstation_798036_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/798036/beamstation_798036_restaurants-us-ri_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "9e87e0376e880367d1b5827b93d8be1944c528c4f267b9799e21e0d8345f098a",
-  "sample_size_bytes": 94700,
-  "total_records": 252
+  "sample_records": 19,
+  "sample_sha256": "92548ac44a213443acb92a64fb7ded06cd1339994b1f75284882360337682105",
+  "sample_size_bytes": 81565,
+  "total_records": 190
 }

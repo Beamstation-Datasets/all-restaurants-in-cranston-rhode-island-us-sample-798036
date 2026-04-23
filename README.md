@@ -1,6 +1,6 @@
 # All Restaurants in Cranston, Rhode Island, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 19 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `798036` |
 | Location | Cranston |
 | Category | Restaurants |
-| Full dataset size | 252 records |
-| Free sample size | 25 records (9.92%) |
-| Last export | 2026-04-16T18:09:14.339157+00:00 |
+| Full dataset size | 190 records |
+| Free sample size | 19 records (10.0%) |
+| Last export | 2026-04-23T14:29:07.447806+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-cranston-rhode-island-us-sample-798036/releases/download/sample-latest/beamstation_798036_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
